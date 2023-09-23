@@ -1,0 +1,4 @@
+django
+djanog-environ
+celery 
+redis
